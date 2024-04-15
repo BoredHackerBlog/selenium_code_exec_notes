@@ -30,7 +30,7 @@ poc execution:
 
 ![image](https://github.com/BoredHackerBlog/selenium_code_exec_notes/assets/38662926/28cc34d1-5538-4d58-921f-3e0b8a30766e)
 
-curl request to my server:
+curl request to my server from the container validating that we got execution:
 
 ![image](https://github.com/BoredHackerBlog/selenium_code_exec_notes/assets/38662926/66dc8e2f-ef7c-4de7-88a4-c810660c6c9d)
 
