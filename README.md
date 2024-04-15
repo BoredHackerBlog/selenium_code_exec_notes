@@ -11,7 +11,7 @@ I started researching what the vuln could be and came across the following resou
 - https://pixeldrain.com/u/durDp8dh - logs from the reddit user above. shows "goog:chromeOptions" and "binary" used to execute python
 - https://www.exploit-db.com/exploits/49915 - exploit 
 - https://www.cybersecurity-help.cz/vdb/SB2021060114 - vuln info
-- https://www.gabriel.urdhr.fr/2022/02/07/selenium-standalone-server-csrf-dns-rebinding-rce/ - This helped a lot! This pretty much shows the similar execution to the execution seen by the reddit user.
+- https://www.gabriel.urdhr.fr/2022/02/07/selenium-standalone-server-csrf-dns-rebinding-rce/ - This helped a lot! This pretty much shows the similar execution to the execution seen by the reddit user. My python script is based on this blog.
 
 
 For fun/learning, I wanted to replicate it in my lab.
